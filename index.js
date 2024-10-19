@@ -1,3 +1,3 @@
 const hello = 'Hello world!';
 
-const x = 7;
+//const x = 7;
